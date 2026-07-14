@@ -1,0 +1,26 @@
+{
+  "name": "shervinibot",
+  "version": "1.0.0",
+  "description": "☬Exclusive SHΞN™ made Ai core telegram bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "nodemon bot.js"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "shervin",
+    "ai"
+  ],
+  "author": "Shervin",
+  "license": "MIT",
+  "dependencies": {
+    "telegraf": "^4.14.0",
+    "dotenv": "^16.0.3",
+    "axios": "^1.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
